@@ -93,10 +93,11 @@
         "variant": "cpp",
     },
     "github.copilot.enable": {
-        "*": true,
+        "*": false,
         "plaintext": false,
         "markdown": true,
         "scminput": false,
         "cpp": false
-    }
+    },
+    "python.analysis.autoImportCompletions": true
 }
